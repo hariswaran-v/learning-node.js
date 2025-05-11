@@ -1,0 +1,15 @@
+{
+  "name": "02-simplenodefsapp",
+  "version": "1.0.0",
+  "description": "File system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "File",
+    "system"
+  ],
+  "author": "hariswaran-v",
+  "license": "ISC"
+}
