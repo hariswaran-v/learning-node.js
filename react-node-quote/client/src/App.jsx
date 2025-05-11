@@ -7,8 +7,9 @@ const App = () => {
   return (
     <div className="bg-slate-900 min-h-screen">
       <TheNavbar />
-      <main className="bg-white rounded p-10 shadow m-10">
-        <Quote /> 
+      <main className=" m-10 space-y-10">
+        <Quote quote="Ellaame maarum" author="Banner" />
+        <Quote quote="Ellaame maarum 1" author="Banner 1" />
       </main>
     </div>
   );
